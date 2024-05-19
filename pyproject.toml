@@ -17,5 +17,5 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.taskipy.tasks]
-task1 = "python src/task1.py"
-task2 = "python src/task2.py"
+task1 = "python task1.py"
+task2 = "python task2.py"
